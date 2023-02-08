@@ -14,7 +14,7 @@ function OnsItem({ clicked, title, subtitle, cost }) {
 
   return (
     <div
-      className={`flex items-center justify-between mb-4 border ${
+      className={`flex items-center justify-between cursor-pointer mb-4 border ${
         clicked === "true" ? "border-purplish-blue" : "border-light-gray"
       } py-3 px-6 rounded-md max-sm:px-4`}
     >
