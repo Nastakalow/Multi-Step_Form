@@ -20,5 +20,5 @@ $ npm start
 
 ## :link: Demo
 
-- <a target="_blank" href="https://multi-step-form-deploy.netlify.app/"> Click Here </a> to see and play by yourself a demo of the game.
-- Frontend Mentor challenges help to improve coding skills by building realistic projects. Thanks a lot Frontend Mentor. ❤
+- <a target="_blank" href="https://multi-step-form-deploy.netlify.app/"> Click Here </a> to see a demo of the app.
+- <a target="_blank" href="https://www.frontendmentor.io/"> Frontend Mentor </a> challenges help to improve coding skills by building realistic projects. Thanks a lot Frontend Mentor. ❤
